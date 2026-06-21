@@ -4,7 +4,7 @@ A 2D mystery visual novel built with the Ren'Py engine.
 
 ## Story
 
-A dramatic Ren'Py visual novel about Ganji Chudail, whose husband Birju is cheating on her with her sister Kapali Chudail and tries to run away with her money but he doesnt know the truth
+A dramatic Ren'Py visual novel about Ganji Chudail, whose husband Birju is cheating on her with her sister Kapali Chudail and tries to run away with her money but he doesnt know the truth. Make 
 
 
 ## 🎮 Play Now
